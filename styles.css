@@ -40,6 +40,9 @@ nav a{
   padding: 17px 35px;
   cursor: pointer;
 }
+.btn-primary:hover{
+  background-color: #ffa733;
+}
 /*header related*/
 .head{
   background-color:  
@@ -133,7 +136,7 @@ main section{
 }
 .resume-container{
   display: flex;
-  gap: 50px;
+  gap: 150px;
 }
 .resume-container hr{
   margin: 30px;
